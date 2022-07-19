@@ -1,4 +1,4 @@
-# teeny compiler
+# teeny transpiler
 This is a small transpiler to demonstrate how compilers work. It compiles our own dialect to C, while being written in Python.
 
 It supports:
